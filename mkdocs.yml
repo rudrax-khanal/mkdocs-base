@@ -1,4 +1,3 @@
 site_name: Knowledge Base - AeonFree
 theme:
-  name: null
-  custom_dir: 'mkdocs-material/material'
+  name: 'material'
